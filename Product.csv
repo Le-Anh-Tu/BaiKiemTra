@@ -1,0 +1,6 @@
+Product{id='001', name='Tivi', price=10.0, quantity=1, description='Hình tam giác'}
+Product{id='002', name='Tủ Lạnh', price=15.5, quantity=2, description='Hình chữ nhật'}
+Product{id='003', name='Nồi cơm', price=5.0, quantity=3, description='Hình vuông'}
+Product{id='004', name='Lồng Bàn', price=1.0, quantity=4, description='Chữ nhật'}
+Product{id='005', name='Bát', price=6.0, quantity=5, description='Dài'}
+Product{id='006', name='Đũa', price=12.0, quantity=6, description='tròn'}
